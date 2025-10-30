@@ -1,0 +1,10 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+openai>=1.104.2
+langchain==0.3.27
+langchain-core==0.3.76
+langchain-openai==0.3.33
+langchain-community==0.3.29
+requests>=2.32.5
+beautifulsoup4==4.12.2
+pydantic>=2.7.4
